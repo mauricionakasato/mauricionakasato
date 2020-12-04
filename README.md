@@ -3,9 +3,13 @@
 <img src="https://paygo.com.br/wp-content/themes/paygo/assets/images/logo.svg" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-Sou desenvolvedor na SETIS/PAYGO, com foco no PayGo Web.
-Cria da SETIS, comecei como estagiario, já nos primeiros anos de efetivo entrei para equipe do PayGo Web. Duvidas sobre o produto, historico, ou treinamento sobre a plataforma, posso não ser a pessoa certa, mas sei quem é, só me perguntar! 😄
+Sou desenvolvedor na SETIS/PAYGO, com foco no PayGo Web
 </p>
+
+<p align="left"> 
+Cria da SETIS, comecei como estagiário, já nos primeiros anos de efetivo entrei para equipe do PayGo Web. Dúvidas sobre o produto, histórico, ou treinamento sobre a plataforma, posso não ser a pessoa certa, mas sei quem é, só me perguntar! 😄 
+</p>
+
 <p align="left"> 
 Seja bem vindo ao meu Git, será um prazer ter sua ajuda.
 </p>
