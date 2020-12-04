@@ -27,6 +27,22 @@ Caso queira saber um pouco mais sobre mim
   <a href="mailto:mauricio@setis.com.br" alt="SETIS">
   <img src="https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=data:image/png;base64,/9j/4AAQSkZJRgABAQEASABIAAD/2wBDAAEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQH/2wBDAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQH/wAARCAAMACgDAREAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD+hD/gkz8PtO+HPxa+N/h+fwRbtd2qs2nfFXWNX8U6/wCM/FOrXeqXkvjextb7W3i07S/h/Z3EejQ+HNG0uwtZLmGGx1vV/N1S8ljsvteKM8q5thsGniG4QsnhIQpU8PTjCCjSnyQjzSxDTn7SpKUrXcINRWvZia0qkYXlotOVJKK000X2t7t+mx+12hfEDSPEen+JtY0i01K60fw1feIdMbVE/sxrXWNR8J6rrWgeJbHSVj1N7pLnRtd0DUtIu49YttIJuoo5bfz7KaO7PxRxmb4L+J9j478Hr410Tw14oGmXeiaT4h0W1uI/D0mp6/pmu6VBrOkvp8GneIb+C1ubuyubZmsdcutHvbM3ELX8FrDIsxAMO0+OXhi4+FPiv4yXGi+KtN8HeD9F8SeItSN9YaY2p3WieEre+udfv9MtbHWb2G7WxXTNSj+zNdQ3s81lIlvbS+daG5AO11jxxpukeIfDvhQ2eoah4k8SW1xqdto9i2lLdWmhafqOiaXrWv3Z1DVLCCXTdCuvEOlHU49Lm1LVPJnaax069SKQqAfk9+wXo1lpfx/8Ux2YlRE8J+Lrgo0hZXuL/wAS6E1xO64AMhS1toEIACwwoAN5kd23J7ylJdm7r1C77n2B8D5bPWbj9pTxsmjaNoutX2pal4T1pfD9iNJ0/wAQzeBb7x7BZeMNa0+F2t7rxxrlvq4tfE/iCJbd9XtdJ0K1+zW9vpNrGqAyv2GvFUmp/DS+8Pw6D4Z0Sw8D6B4A0eyOgaQmlz6y9p4Qi07+2fEUkczpqOt3VnpGnQXV5HHaRNHaxpFbQqoUAFLT0/tP9gn4l6bOzJDqHw5+OGhyyQ7VnjtNYu/GNlcSQs6yRi5ih1CU27yRSRLIkTTQzKHWQA3PjlqVr4u8Wfs8+FNf8P8Ahy/h8ZS6dr0GuSaYD4p8Ea9a6v4Rli1v4f6+Zje+GdUK381tJeRNcSvahIWODKZAD//Z&logoColor=white&logoWidth=80&link=mailto:mauricio.nakasato@paygo.com.br"/></a>
 </p>  
+
+## Template by
+
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="#">
+        <img src="https://avatars3.githubusercontent.com/u/31936044" width="100px;" alt="Foto do Iuri Silva no GitHub"/><br>
+        <sub>
+          <b>Iuri Silva</b>
+        </sub>
+      </a>
+    </td>
+  </tr>
+</table>
 <!--
 **mauricionakasato/mauricionakasato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
