@@ -43,6 +43,13 @@ Caso queira saber um pouco mais sobre mim
     </td>
   </tr>
 </table>
+
+---
+<p align="right">
+  <a href="https://github.com/iuricode/README-template" alt="github">
+  <img src="https://img.shields.io/github/stars/iuricode/README-template?label=template%20readme&logo=template" /></a>
+</p> 
+
 <!--
 **mauricionakasato/mauricionakasato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
