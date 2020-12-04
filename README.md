@@ -34,7 +34,7 @@ Caso queira saber um pouco mais sobre mim
 <table>
   <tr>
     <td align="center">
-      <a href="#">
+      <a href="https://github.com/iuricode/README-template">
         <img src="https://avatars3.githubusercontent.com/u/31936044" width="100px;" alt="Foto do Iuri Silva no GitHub"/><br>
         <sub>
           <b>Iuri Silva</b>
